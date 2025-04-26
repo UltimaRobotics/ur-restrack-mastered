@@ -1,0 +1,14 @@
+{
+  "output_path": "/var/log/sysmon_data.json",
+  "log_path": "/var/log/sysmon.log",
+  "collection_interval": 60,
+  "verbose": false,
+  "collect_cpu": true,
+  "collect_memory": true,
+  "collect_load": true,
+  "collect_disk": true,
+  "collect_network": true,
+  "collect_uptime": true,
+  "collect_processes": true,
+  "collect_swap": true
+}
