@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "ur-restrack.h": "c",
+        "config.h": "c",
+        "sysmon.h": "c",
+        "resources.h": "c",
+        "signal.h": "c",
+        "json_handler.h": "c",
+        "string.h": "c",
+        "pthread.h": "c",
+        "ur-rpc-template.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c",
+        "complex": "c",
+        "thread": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "limits.h": "c",
+        "unistd.h": "c",
+        "util.h": "c",
+        "getopt.h": "c",
+        "stdio.h": "c",
+        "thread_manager.h": "c",
+        "stdlib.h": "c"
+    }
+}

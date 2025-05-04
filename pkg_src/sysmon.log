@@ -1,0 +1,94 @@
+[2025-05-04 12:49:08] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 12:49:08] [INFO] Output file: system_data.json
+[2025-05-04 12:49:08] [ERROR] Failed to open file system_data.json: No such file or directory
+[2025-05-04 12:49:08] [INFO] Successfully updated system resource data
+[2025-05-04 12:49:09] [INFO] Successfully updated system resource data
+[2025-05-04 12:49:10] [INFO] Successfully updated system resource data
+[2025-05-04 12:49:11] [INFO] Successfully updated system resource data
+[2025-05-04 12:49:12] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:49:12] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:49:12] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:49:12] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:51:29] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 12:51:29] [INFO] Output file: system_data.json
+[2025-05-04 12:51:29] [INFO] Successfully updated system resource data
+[2025-05-04 12:51:30] [INFO] Successfully updated system resource data
+[2025-05-04 12:51:31] [INFO] Successfully updated system resource data
+[2025-05-04 12:51:32] [INFO] Successfully updated system resource data
+[2025-05-04 12:51:33] [INFO] Successfully updated system resource data
+[2025-05-04 12:51:33] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:51:33] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:51:33] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:51:33] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 12:56:35] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 12:56:35] [INFO] Output file: system_data.json
+[2025-05-04 12:56:35] [INFO] Successfully updated system resource data
+[2025-05-04 12:56:36] [INFO] Successfully updated system resource data
+[2025-05-04 12:56:37] [INFO] Successfully updated system resource data
+[2025-05-04 12:56:38] [INFO] Successfully updated system resource data
+[2025-05-04 12:56:39] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:18] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:02:18] [INFO] Output file: system_data.json
+[2025-05-04 13:02:18] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:19] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:20] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:21] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:22] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:23] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:24] [INFO] Successfully updated system resource data
+[2025-05-04 13:02:25] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:02:25] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:02:25] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:04:47] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:04:47] [INFO] Output file: system_data.json
+[2025-05-04 13:04:47] [INFO] Successfully updated system resource data
+[2025-05-04 13:04:48] [INFO] Successfully updated system resource data
+[2025-05-04 13:04:49] [INFO] Successfully updated system resource data
+[2025-05-04 13:04:49] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:04:49] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:04:49] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:05:51] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:05:51] [INFO] Output file: system_data.json
+[2025-05-04 13:05:51] [INFO] Successfully updated system resource data
+[2025-05-04 13:05:52] [INFO] Successfully updated system resource data
+[2025-05-04 13:05:53] [INFO] Successfully updated system resource data
+[2025-05-04 13:05:54] [INFO] Successfully updated system resource data
+[2025-05-04 13:05:54] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:05:54] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:05:54] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:07:48] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:07:48] [INFO] Output file: system_data.json
+[2025-05-04 13:07:48] [INFO] Successfully updated system resource data
+[2025-05-04 13:07:49] [INFO] Successfully updated system resource data
+[2025-05-04 13:07:50] [INFO] Successfully updated system resource data
+[2025-05-04 13:07:51] [INFO] Successfully updated system resource data
+[2025-05-04 13:07:52] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:07:52] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:07:52] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:02] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:11:02] [INFO] Output file: system_data.json
+[2025-05-04 13:11:02] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:03] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:04] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:05] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:20] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:11:20] [INFO] Output file: system_data.json
+[2025-05-04 13:11:20] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:21] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:22] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:22] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:22] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:22] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:48] [INFO] System monitoring started with interval: 1 seconds
+[2025-05-04 13:11:48] [INFO] Output file: system_data.json
+[2025-05-04 13:11:48] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:49] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:50] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:51] [INFO] Successfully updated system resource data
+[2025-05-04 13:11:51] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:51] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:51] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:11:51] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c

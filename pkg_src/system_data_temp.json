@@ -1,0 +1,5657 @@
+{
+	"history":	[{
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14551,
+				"free_mb":	1166,
+				"usage_percent":	92.5812814150283
+			},
+			"system_uptime":	{
+				"total_seconds":	261087,
+				"days":	3,
+				"hours":	0,
+				"minutes":	31,
+				"seconds":	27,
+				"uptime":	"3 days 0 hours 31 minutes"
+			},
+			"timestamp":	"2025-05-04 13:11:51",
+			"timestamp_unix":	1746360711
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14494,
+				"free_mb":	1223,
+				"usage_percent":	92.2186167843736
+			},
+			"system_uptime":	{
+				"total_seconds":	261097,
+				"days":	3,
+				"hours":	0,
+				"minutes":	31,
+				"seconds":	37,
+				"uptime":	"3 days 0 hours 31 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:01",
+			"timestamp_unix":	1746360721
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14477,
+				"free_mb":	1240,
+				"usage_percent":	92.1104536489152
+			},
+			"system_uptime":	{
+				"total_seconds":	261101,
+				"days":	3,
+				"hours":	0,
+				"minutes":	31,
+				"seconds":	41,
+				"uptime":	"3 days 0 hours 31 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:06",
+			"timestamp_unix":	1746360726
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14485,
+				"free_mb":	1232,
+				"usage_percent":	92.161353947954439
+			},
+			"system_uptime":	{
+				"total_seconds":	261111,
+				"days":	3,
+				"hours":	0,
+				"minutes":	31,
+				"seconds":	51,
+				"uptime":	"3 days 0 hours 31 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:16",
+			"timestamp_unix":	1746360736
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14499,
+				"free_mb":	1218,
+				"usage_percent":	92.250429471273151
+			},
+			"system_uptime":	{
+				"total_seconds":	261121,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	1,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:26",
+			"timestamp_unix":	1746360746
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14536,
+				"free_mb":	1181,
+				"usage_percent":	92.4858433543297
+			},
+			"system_uptime":	{
+				"total_seconds":	261131,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	11,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:36",
+			"timestamp_unix":	1746360756
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14488,
+				"free_mb":	1229,
+				"usage_percent":	92.180441560094167
+			},
+			"system_uptime":	{
+				"total_seconds":	261141,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	21,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:46",
+			"timestamp_unix":	1746360766
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14484,
+				"free_mb":	1233,
+				"usage_percent":	92.154991410574539
+			},
+			"system_uptime":	{
+				"total_seconds":	261151,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	31,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:12:56",
+			"timestamp_unix":	1746360776
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14583,
+				"free_mb":	1134,
+				"usage_percent":	92.784882611185338
+			},
+			"system_uptime":	{
+				"total_seconds":	261161,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	41,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:06",
+			"timestamp_unix":	1746360786
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14490,
+				"free_mb":	1227,
+				"usage_percent":	92.193166634854
+			},
+			"system_uptime":	{
+				"total_seconds":	261171,
+				"days":	3,
+				"hours":	0,
+				"minutes":	32,
+				"seconds":	51,
+				"uptime":	"3 days 0 hours 32 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:16",
+			"timestamp_unix":	1746360796
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14543,
+				"free_mb":	1174,
+				"usage_percent":	92.530381115989059
+			},
+			"system_uptime":	{
+				"total_seconds":	261181,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	1,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:26",
+			"timestamp_unix":	1746360806
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14492,
+				"free_mb":	1225,
+				"usage_percent":	92.2058917096138
+			},
+			"system_uptime":	{
+				"total_seconds":	261191,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	11,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:36",
+			"timestamp_unix":	1746360816
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14555,
+				"free_mb":	1162,
+				"usage_percent":	92.606731564547943
+			},
+			"system_uptime":	{
+				"total_seconds":	261201,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	21,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:46",
+			"timestamp_unix":	1746360826
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14607,
+				"free_mb":	1110,
+				"usage_percent":	92.9375835083031
+			},
+			"system_uptime":	{
+				"total_seconds":	261211,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	31,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:13:56",
+			"timestamp_unix":	1746360836
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14525,
+				"free_mb":	1192,
+				"usage_percent":	92.415855443150733
+			},
+			"system_uptime":	{
+				"total_seconds":	261221,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	41,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:06",
+			"timestamp_unix":	1746360846
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14505,
+				"free_mb":	1212,
+				"usage_percent":	92.2886046955526
+			},
+			"system_uptime":	{
+				"total_seconds":	261231,
+				"days":	3,
+				"hours":	0,
+				"minutes":	33,
+				"seconds":	51,
+				"uptime":	"3 days 0 hours 33 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:16",
+			"timestamp_unix":	1746360856
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14512,
+				"free_mb":	1205,
+				"usage_percent":	92.333142457211935
+			},
+			"system_uptime":	{
+				"total_seconds":	261241,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	1,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:26",
+			"timestamp_unix":	1746360866
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14497,
+				"free_mb":	1220,
+				"usage_percent":	92.237704396513323
+			},
+			"system_uptime":	{
+				"total_seconds":	261251,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	11,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:36",
+			"timestamp_unix":	1746360876
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14514,
+				"free_mb":	1203,
+				"usage_percent":	92.345867531971749
+			},
+			"system_uptime":	{
+				"total_seconds":	261261,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	21,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:46",
+			"timestamp_unix":	1746360886
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14520,
+				"free_mb":	1197,
+				"usage_percent":	92.3840427562512
+			},
+			"system_uptime":	{
+				"total_seconds":	261271,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	31,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:14:56",
+			"timestamp_unix":	1746360896
+		}, {
+			"memory_usage":	{
+				"total_mb":	15717,
+				"used_mb":	14502,
+				"free_mb":	1215,
+				"usage_percent":	92.269517083412865
+			},
+			"system_uptime":	{
+				"total_seconds":	261281,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	41,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:06",
+			"timestamp_unix":	1746360906
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98022529,
+							"packets":	180519,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98022529,
+							"packets":	180519,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467558,
+							"packets":	1649366,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031105,
+							"packets":	798687,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34825799,
+							"packets":	41717,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12240215,
+							"packets":	29924,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261290,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	50,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:14",
+			"timestamp_unix":	1746360914
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98027771,
+							"packets":	180531,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98027771,
+							"packets":	180531,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467558,
+							"packets":	1649366,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031105,
+							"packets":	798687,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34833184,
+							"packets":	41732,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12242804,
+							"packets":	29936,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261292,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	52,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:16",
+			"timestamp_unix":	1746360916
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98033013,
+							"packets":	180543,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98033013,
+							"packets":	180543,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467558,
+							"packets":	1649366,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031105,
+							"packets":	798687,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34835162,
+							"packets":	41744,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12251808,
+							"packets":	29951,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261294,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	54,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:18",
+			"timestamp_unix":	1746360918
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98038255,
+							"packets":	180555,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98038255,
+							"packets":	180555,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34838799,
+							"packets":	41755,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12257667,
+							"packets":	29961,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261296,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	56,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:20",
+			"timestamp_unix":	1746360920
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98043497,
+							"packets":	180567,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98043497,
+							"packets":	180567,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34838903,
+							"packets":	41757,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12257887,
+							"packets":	29963,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261298,
+				"days":	3,
+				"hours":	0,
+				"minutes":	34,
+				"seconds":	58,
+				"uptime":	"3 days 0 hours 34 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:22",
+			"timestamp_unix":	1746360922
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98048739,
+							"packets":	180579,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98048739,
+							"packets":	180579,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34840573,
+							"packets":	41768,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12261937,
+							"packets":	29974,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261300,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	0,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:24",
+			"timestamp_unix":	1746360924
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98053979,
+							"packets":	180591,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98053979,
+							"packets":	180591,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34849021,
+							"packets":	41792,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12277660,
+							"packets":	29997,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261302,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	2,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:26",
+			"timestamp_unix":	1746360926
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98059219,
+							"packets":	180603,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98059219,
+							"packets":	180603,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34849149,
+							"packets":	41794,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12277908,
+							"packets":	29999,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261304,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	4,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:28",
+			"timestamp_unix":	1746360928
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98064459,
+							"packets":	180615,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98064459,
+							"packets":	180615,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34849149,
+							"packets":	41794,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12277908,
+							"packets":	29999,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261306,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	6,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:30",
+			"timestamp_unix":	1746360930
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98069699,
+							"packets":	180627,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98069699,
+							"packets":	180627,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467642,
+							"packets":	1649368,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031245,
+							"packets":	798689,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34849921,
+							"packets":	41801,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12279016,
+							"packets":	30008,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261308,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	8,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:32",
+			"timestamp_unix":	1746360932
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98075268,
+							"packets":	180643,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98075268,
+							"packets":	180643,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467887,
+							"packets":	1649370,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031441,
+							"packets":	798691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34856507,
+							"packets":	41817,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12287275,
+							"packets":	30027,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261310,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	10,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:34",
+			"timestamp_unix":	1746360934
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98080510,
+							"packets":	180655,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98080510,
+							"packets":	180655,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735467887,
+							"packets":	1649370,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031441,
+							"packets":	798691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34865033,
+							"packets":	41844,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12303542,
+							"packets":	30054,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261312,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	12,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:36",
+			"timestamp_unix":	1746360936
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98085752,
+							"packets":	180667,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98085752,
+							"packets":	180667,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735468175,
+							"packets":	1649374,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031441,
+							"packets":	798691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34865176,
+							"packets":	41846,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12303652,
+							"packets":	30055,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261314,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	14,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:38",
+			"timestamp_unix":	1746360938
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98090994,
+							"packets":	180679,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98090994,
+							"packets":	180679,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735468175,
+							"packets":	1649374,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031441,
+							"packets":	798691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34866654,
+							"packets":	41855,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12309386,
+							"packets":	30065,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261316,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	16,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:40",
+			"timestamp_unix":	1746360940
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98096236,
+							"packets":	180691,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98096236,
+							"packets":	180691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735468175,
+							"packets":	1649374,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031441,
+							"packets":	798691,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34866706,
+							"packets":	41856,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12309496,
+							"packets":	30066,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261318,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	18,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:42",
+			"timestamp_unix":	1746360942
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98102440,
+							"packets":	180708,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98102440,
+							"packets":	180708,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735469426,
+							"packets":	1649377,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031764,
+							"packets":	798694,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34870622,
+							"packets":	41876,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12319182,
+							"packets":	30087,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261320,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	20,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:44",
+			"timestamp_unix":	1746360944
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98107682,
+							"packets":	180720,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98107682,
+							"packets":	180720,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735469426,
+							"packets":	1649377,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390031764,
+							"packets":	798694,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34880833,
+							"packets":	41910,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12337057,
+							"packets":	30119,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261322,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	22,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:46",
+			"timestamp_unix":	1746360946
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98113757,
+							"packets":	180737,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98113757,
+							"packets":	180737,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470144,
+							"packets":	1649380,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032094,
+							"packets":	798697,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34885685,
+							"packets":	41934,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12350440,
+							"packets":	30143,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261324,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	24,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:48",
+			"timestamp_unix":	1746360948
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98119919,
+							"packets":	180754,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98119919,
+							"packets":	180754,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470739,
+							"packets":	1649382,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032406,
+							"packets":	798700,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34887936,
+							"packets":	41942,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12353058,
+							"packets":	30153,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261326,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	26,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:50",
+			"timestamp_unix":	1746360950
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98125161,
+							"packets":	180766,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98125161,
+							"packets":	180766,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470888,
+							"packets":	1649383,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032406,
+							"packets":	798700,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34888064,
+							"packets":	41944,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12353306,
+							"packets":	30155,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261328,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	28,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:52",
+			"timestamp_unix":	1746360952
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98130403,
+							"packets":	180778,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98130403,
+							"packets":	180778,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470930,
+							"packets":	1649384,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032476,
+							"packets":	798701,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34888272,
+							"packets":	41948,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12353746,
+							"packets":	30159,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261330,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	30,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:54",
+			"timestamp_unix":	1746360954
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98135645,
+							"packets":	180790,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98135645,
+							"packets":	180790,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470930,
+							"packets":	1649384,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032476,
+							"packets":	798701,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34897392,
+							"packets":	41975,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12370227,
+							"packets":	30186,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261332,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	32,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:56",
+			"timestamp_unix":	1746360956
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98140887,
+							"packets":	180802,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98140887,
+							"packets":	180802,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470930,
+							"packets":	1649384,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032476,
+							"packets":	798701,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34897444,
+							"packets":	41976,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12370490,
+							"packets":	30188,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261334,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	34,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:15:58",
+			"timestamp_unix":	1746360958
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98146129,
+							"packets":	180814,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98146129,
+							"packets":	180814,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735470930,
+							"packets":	1649384,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390032476,
+							"packets":	798701,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34897663,
+							"packets":	41979,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12370848,
+							"packets":	30191,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261336,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	36,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:00",
+			"timestamp_unix":	1746360960
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98151531,
+							"packets":	180829,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98151531,
+							"packets":	180829,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471668,
+							"packets":	1649389,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033252,
+							"packets":	798708,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34897845,
+							"packets":	41982,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12371238,
+							"packets":	30194,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261338,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	38,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:02",
+			"timestamp_unix":	1746360962
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98156773,
+							"packets":	180841,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98156773,
+							"packets":	180841,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471668,
+							"packets":	1649389,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033252,
+							"packets":	798708,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34898233,
+							"packets":	41988,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12372066,
+							"packets":	30201,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261340,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	40,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:04",
+			"timestamp_unix":	1746360964
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98162015,
+							"packets":	180853,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98162015,
+							"packets":	180853,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471668,
+							"packets":	1649389,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033252,
+							"packets":	798708,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34898601,
+							"packets":	41990,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12380646,
+							"packets":	30211,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261342,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	42,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:06",
+			"timestamp_unix":	1746360966
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98167257,
+							"packets":	180865,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98167257,
+							"packets":	180865,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471710,
+							"packets":	1649390,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033322,
+							"packets":	798709,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34907250,
+							"packets":	42014,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12388658,
+							"packets":	30229,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261344,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	44,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:08",
+			"timestamp_unix":	1746360968
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98172499,
+							"packets":	180877,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98172499,
+							"packets":	180877,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471710,
+							"packets":	1649390,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033322,
+							"packets":	798709,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34909567,
+							"packets":	42028,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12396367,
+							"packets":	30241,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261346,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	46,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:10",
+			"timestamp_unix":	1746360970
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98177741,
+							"packets":	180889,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98177741,
+							"packets":	180889,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735471710,
+							"packets":	1649390,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033322,
+							"packets":	798709,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34910009,
+							"packets":	42031,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12397075,
+							"packets":	30245,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261348,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	48,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:12",
+			"timestamp_unix":	1746360972
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98184172,
+							"packets":	180910,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98184172,
+							"packets":	180910,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735473101,
+							"packets":	1649393,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033648,
+							"packets":	798712,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34913844,
+							"packets":	42050,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12406499,
+							"packets":	30264,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261350,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	50,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:14",
+			"timestamp_unix":	1746360974
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98189414,
+							"packets":	180922,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98189414,
+							"packets":	180922,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735473265,
+							"packets":	1649394,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390033648,
+							"packets":	798712,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34915294,
+							"packets":	42056,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12408495,
+							"packets":	30271,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261352,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	52,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:16",
+			"timestamp_unix":	1746360976
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98195350,
+							"packets":	180938,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98195350,
+							"packets":	180938,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34928230,
+							"packets":	42096,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12437181,
+							"packets":	30315,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261354,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	54,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:18",
+			"timestamp_unix":	1746360978
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98200592,
+							"packets":	180950,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98200592,
+							"packets":	180950,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34929516,
+							"packets":	42101,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12439131,
+							"packets":	30321,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261356,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	56,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:20",
+			"timestamp_unix":	1746360980
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98205834,
+							"packets":	180962,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98205834,
+							"packets":	180962,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34929923,
+							"packets":	42103,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12439702,
+							"packets":	30324,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261358,
+				"days":	3,
+				"hours":	0,
+				"minutes":	35,
+				"seconds":	58,
+				"uptime":	"3 days 0 hours 35 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:22",
+			"timestamp_unix":	1746360982
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98211076,
+							"packets":	180974,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98211076,
+							"packets":	180974,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34930259,
+							"packets":	42109,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12442994,
+							"packets":	30331,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261360,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	0,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:24",
+			"timestamp_unix":	1746360984
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98216316,
+							"packets":	180986,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98216316,
+							"packets":	180986,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34931192,
+							"packets":	42112,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12443359,
+							"packets":	30334,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261362,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	2,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:26",
+			"timestamp_unix":	1746360986
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98221556,
+							"packets":	180998,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98221556,
+							"packets":	180998,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474171,
+							"packets":	1649398,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34940111,
+							"packets":	42140,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12459679,
+							"packets":	30360,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261364,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	4,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:28",
+			"timestamp_unix":	1746360988
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98226796,
+							"packets":	181010,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98226796,
+							"packets":	181010,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474257,
+							"packets":	1649399,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34940202,
+							"packets":	42141,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12459789,
+							"packets":	30361,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261366,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	6,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:30",
+			"timestamp_unix":	1746360990
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98232036,
+							"packets":	181022,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98232036,
+							"packets":	181022,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474257,
+							"packets":	1649399,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34940345,
+							"packets":	42143,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12460192,
+							"packets":	30364,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261368,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	8,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:32",
+			"timestamp_unix":	1746360992
+		}, {
+			"network_stats":	{
+				"interfaces":	[{
+						"interface":	"lo",
+						"receive":	{
+							"bytes":	98237276,
+							"packets":	181034,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	98237276,
+							"packets":	181034,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enp46s0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"wlp47s0",
+						"receive":	{
+							"bytes":	1735474257,
+							"packets":	1649399,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	390034072,
+							"packets":	798716,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"tun0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1070014,
+							"packets":	6995,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"br-37c3defde3b9",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"docker0",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1032060,
+							"packets":	5017,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"veth87727f1",
+						"receive":	{
+							"bytes":	0,
+							"packets":	0,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	1069858,
+							"packets":	5243,
+							"errors":	0,
+							"dropped":	0
+						}
+					}, {
+						"interface":	"enxaeee16ef3d66",
+						"receive":	{
+							"bytes":	34940527,
+							"packets":	42146,
+							"errors":	0,
+							"dropped":	0
+						},
+						"transmit":	{
+							"bytes":	12460662,
+							"packets":	30368,
+							"errors":	0,
+							"dropped":	0
+						}
+					}]
+			},
+			"system_uptime":	{
+				"total_seconds":	261370,
+				"days":	3,
+				"hours":	0,
+				"minutes":	36,
+				"seconds":	10,
+				"uptime":	"3 days 0 hours 36 minutes"
+			},
+			"timestamp":	"2025-05-04 13:16:34",
+			"timestamp_unix":	1746360994
+		}],
+	"memory_usage":	{
+		"total_mb":	15717,
+		"used_mb":	14502,
+		"free_mb":	1215,
+		"usage_percent":	92.269517083412865
+	},
+	"network_stats":	{
+		"interfaces":	[{
+				"interface":	"lo",
+				"receive":	{
+					"bytes":	98237276,
+					"packets":	181034,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	98237276,
+					"packets":	181034,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"enp46s0",
+				"receive":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"wlp47s0",
+				"receive":	{
+					"bytes":	1735474257,
+					"packets":	1649399,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	390034072,
+					"packets":	798716,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"tun0",
+				"receive":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	1070014,
+					"packets":	6995,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"br-37c3defde3b9",
+				"receive":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"docker0",
+				"receive":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	1032060,
+					"packets":	5017,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"veth87727f1",
+				"receive":	{
+					"bytes":	0,
+					"packets":	0,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	1069858,
+					"packets":	5243,
+					"errors":	0,
+					"dropped":	0
+				}
+			}, {
+				"interface":	"enxaeee16ef3d66",
+				"receive":	{
+					"bytes":	34940527,
+					"packets":	42146,
+					"errors":	0,
+					"dropped":	0
+				},
+				"transmit":	{
+					"bytes":	12460662,
+					"packets":	30368,
+					"errors":	0,
+					"dropped":	0
+				}
+			}]
+	},
+	"system_uptime":	{
+		"total_seconds":	261370,
+		"days":	3,
+		"hours":	0,
+		"minutes":	36,
+		"seconds":	10,
+		"uptime":	"3 days 0 hours 36 minutes"
+	},
+	"timestamp":	"2025-05-04 13:16:34",
+	"timestamp_unix":	1746360994
+}

@@ -1,0 +1,77 @@
+[2025-05-04 13:11:51] [INFO] System monitoring started with interval: 10 seconds
+[2025-05-04 13:11:51] [INFO] Output file: system_data_temp.json
+[2025-05-04 13:11:51] [ERROR] Failed to open file system_data_temp.json: No such file or directory
+[2025-05-04 13:11:51] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:01] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:12:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:12:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:12:06] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:12:06] [INFO] System monitoring started with interval: 10 seconds
+[2025-05-04 13:12:06] [INFO] Output file: system_data_temp.json
+[2025-05-04 13:12:06] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:16] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:26] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:36] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:46] [INFO] Successfully updated system resource data
+[2025-05-04 13:12:56] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:06] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:16] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:26] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:36] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:46] [INFO] Successfully updated system resource data
+[2025-05-04 13:13:56] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:06] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:16] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:26] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:36] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:46] [INFO] Successfully updated system resource data
+[2025-05-04 13:14:56] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:06] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:14] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:15:14] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:15:14] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:15:14] [ERROR] /home/fyou/Documents/ported/openwrt/package/ur-stack/ur-restrack-mastered/pkg_src/thirdparty/ur-threadder-api/src/thread_manager.c
+[2025-05-04 13:15:14] [INFO] System monitoring started with interval: 2 seconds
+[2025-05-04 13:15:14] [INFO] Output file: system_data_temp.json
+[2025-05-04 13:15:14] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:16] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:18] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:20] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:22] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:24] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:26] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:28] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:30] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:32] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:34] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:36] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:38] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:40] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:42] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:44] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:46] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:48] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:50] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:52] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:54] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:56] [INFO] Successfully updated system resource data
+[2025-05-04 13:15:58] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:00] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:02] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:04] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:06] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:08] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:10] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:12] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:14] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:16] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:18] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:20] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:22] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:24] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:26] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:28] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:30] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:32] [INFO] Successfully updated system resource data
+[2025-05-04 13:16:34] [INFO] Successfully updated system resource data

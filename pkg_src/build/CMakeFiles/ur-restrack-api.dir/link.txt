@@ -1,0 +1,2 @@
+/usr/bin/ar qc libur-restrack-api.a CMakeFiles/ur-restrack-api.dir/spec/ur-restrack.c.o
+/usr/bin/ranlib libur-restrack-api.a

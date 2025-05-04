@@ -1,0 +1,14 @@
+{
+    "new_config": "{\n  \"output_path\": \"system_data.json\",\n  \"log_path\": \"sysmon.log\",\n  \"collection_interval\": 1,\n  \"verbose\": false,\n  \"collect_cpu\": true,\n  \"collect_memory\": true,\n  \"collect_load\": true,\n  \"collect_disk\": true,\n  \"collect_network\": true,\n  \"collect_uptime\": true,\n  \"collect_processes\": true,\n  \"collect_swap\": true\n}",
+    "action": "UPDATE"
+}
+
+{
+    "new_config": "",
+    "action": "SHUTDOWN"
+}
+
+{
+    "new_config": "",
+    "action": "RESTART"
+}

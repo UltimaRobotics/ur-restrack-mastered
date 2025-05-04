@@ -1,0 +1,14 @@
+{
+    "json_added_pubs": {
+        "topics": [
+            "ur-restrack-results",
+            "ur-restrack-status",
+            "ur-restrack-heartbeat"
+        ]
+    },
+    "json_added_subs": {
+        "topics": [
+            "ur-restrack-actions"
+        ]
+    }
+}
